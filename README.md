@@ -1,3 +1,6 @@
+*****************IMP**********************************
+npm install (in package directory, no arguments):. Install the dependencies in the local node_modules folder.
+*****************IMP**********************************
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
